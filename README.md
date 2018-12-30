@@ -1,2 +1,2 @@
 # NSGA3
-This is an implementation of (Non-dominated Sorting Genetic Algorithm III
+This is an implementation of (Non-dominated Sorting Genetic Algorithm III)
